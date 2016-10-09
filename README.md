@@ -1,0 +1,2 @@
+# WoTReplayFileTransfer
+WoTリプレイファイルをすべて保存用HDに移動するバッチファイル
